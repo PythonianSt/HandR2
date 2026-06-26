@@ -86,5 +86,5 @@ st.info(
 )
 
 st.caption(
-    "KU KPS Pain Consult • Patient QR • No AI • No data collection"
+    "KU KPS Infirmary"
 )
